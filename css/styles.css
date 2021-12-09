@@ -231,6 +231,7 @@ header h3 {
   background: #3c3c3c;
   position: relative;
   margin: 30px;
+    height: 400px;
 }
 
 #portfolioGrid img {
