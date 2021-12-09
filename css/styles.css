@@ -1,5 +1,5 @@
 @import url("https://fonts.googleapis.com/css2?family=Thasadith:wght@400;700&display=swap");
-@import url("https://use.typekit.net/aex7pdj.css");
+@import url("https://api.fontshare.com/css?f[]=boska@500&display=swap");
 
 :root {
   --1: #F8F8F8; /*almost white*/
@@ -17,26 +17,14 @@
   /* All main text */
 
 h1 {
-  font-family: ivypresto-headline, serif; 
-  
-
-font-weight: 400;
-
-font-style: normal;
-
+  ffont-family: 'Boska', serif;
   font-size: 50px;
   color: var(--2);
     margin: 0px;
 }
 
 h2 {
-  font-family: ivypresto-headline, serif; 
-  
-
-font-weight: 400;
-
-font-style: normal;
-
+  font-family: 'Boska', serif;
   font-size: 35px;
   margin: 0;
   padding: 0;
@@ -99,13 +87,7 @@ nav {
 
 /* Dark green */
 nav a {
-  font-family: ivypresto-headline, serif; 
-  
-
-font-weight: 400;
-
-font-style: normal;
-
+  font-family: 'Boska', serif; 
   font-size: 30px;
   text-decoration: none;
   color: var(--2);
@@ -259,13 +241,7 @@ header h3 {
   top: 0;
   bottom: 0;
   color: #fff;
-  font-family: ivypresto-headline, serif; 
-  
-
-font-weight: 400;
-
-font-style: normal;
-
+  font-family: 'Boska', serif;
   font-size: 40px;
   text-align: center;
   visibility: hidden;
