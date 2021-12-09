@@ -18,6 +18,12 @@
 
 h1 {
   font-family: ivypresto-headline, serif; 
+  
+
+font-weight: 400;
+
+font-style: normal;
+
   font-size: 50px;
   color: var(--2);
     margin: 0px;
@@ -25,6 +31,12 @@ h1 {
 
 h2 {
   font-family: ivypresto-headline, serif; 
+  
+
+font-weight: 400;
+
+font-style: normal;
+
   font-size: 35px;
   margin: 0;
   padding: 0;
@@ -88,6 +100,12 @@ nav {
 /* Dark green */
 nav a {
   font-family: ivypresto-headline, serif; 
+  
+
+font-weight: 400;
+
+font-style: normal;
+
   font-size: 30px;
   text-decoration: none;
   color: var(--2);
@@ -242,6 +260,12 @@ header h3 {
   bottom: 0;
   color: #fff;
   font-family: ivypresto-headline, serif; 
+  
+
+font-weight: 400;
+
+font-style: normal;
+
   font-size: 40px;
   text-align: center;
   visibility: hidden;
