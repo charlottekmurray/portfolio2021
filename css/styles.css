@@ -289,11 +289,12 @@ a:hover .img__description_layer {
   width: 90%;
   border-radius: 25px;
   justify-self: end;
+  padding-top: 30px;
 }
 
 #info h2 {
   grid-area: 1 / 2 / 2 / 3;
-  padding-top: 70px;
+  padding-top: 60px;
 }
 
 #info p {
