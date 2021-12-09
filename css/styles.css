@@ -17,7 +17,7 @@
   /* All main text */
 
 h1 {
-  ffont-family: 'Boska', serif;
+  font-family: 'Boska', serif;
   font-size: 50px;
   color: var(--2);
     margin: 0px;
