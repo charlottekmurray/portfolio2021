@@ -289,7 +289,7 @@ a:hover .img__description_layer {
   width: 90%;
   border-radius: 25px;
   justify-self: end;
-  padding-top: 30px;
+  margin-top: 30px;
 }
 
 #info h2 {
