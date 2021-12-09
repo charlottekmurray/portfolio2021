@@ -274,11 +274,12 @@ a:hover .img__description_layer {
 #about h1 {
   text-align: center;
   color: var(--1);
+  padding-bottom: 10px;
 }
 
 #info {
   display: grid;
-  grid-template: 70px 600px / 453px 455px;
+  grid-template: 70px 600px / 453px 480px;
   grid-gap: 40px;
   justify-content: center;
 }
